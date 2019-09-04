@@ -34,4 +34,8 @@ a {
   float: left;
 }
 
-div:last
+div:last-child {
+  text-align: center;
+  color: blue;
+  width: 25%;
+}
