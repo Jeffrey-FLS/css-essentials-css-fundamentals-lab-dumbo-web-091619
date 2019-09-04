@@ -18,6 +18,10 @@ img {
 
 a {
   padding: 10px;
-  color: blue;
+  color: grey;
 }
 
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
